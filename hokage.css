@@ -1,0 +1,23 @@
+body {
+    background-image: url(image/wallpaper3.png);
+    background-size: cover;     
+    background-repeat: no-repeat;
+}
+
+.caixa {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.caixa img{
+    width: 30%;
+}
+
+.caixa h1 {
+    height: 100px;
+}
+
+.caixa .conteudo p{
+    text-align: justify;
+}

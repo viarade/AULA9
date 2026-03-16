@@ -4,10 +4,9 @@
     display: flex;
     justify-content: center;
     margin: 20px;
-
-}
-
-
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.3); 
+    
+} 
 
 .texto {
     background-color: gray;
@@ -22,8 +21,6 @@ img{
     align-items: center;
     height: 100%;
 }
-
-
 
 .texto h1 {
     color: orange;
@@ -45,3 +42,4 @@ img{
     display: flex;
     align-items: center;
 }
+
