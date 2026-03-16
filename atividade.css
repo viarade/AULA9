@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Double+Ink:wght@100..900&family=Cute+Font&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body {
+    background-image: url(image/fundo.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+.caixa {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.caixa div {
+    background-color: pink;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.caixa h1 {
+    text-align: center;
+    font-family: Cute Font;
+}
+
+.caixa img {
+    height: 225px;
+    width: 200px;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.personagem:hover{
+    background-color: palevioletred;
+    transition: background-color 0.8s ease;
+}
+
+
+
+
+
+
+
+
+
